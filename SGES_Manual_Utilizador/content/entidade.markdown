@@ -6,9 +6,10 @@ title: "Entidade"
 
 # 6.Entidades
 
-É neste módulo que serão feitas ações sobre as entidades.
+É neste módulo q   ue serão feitas ações sobre as entidades.
 
 <p id="criarEntidade"></p>
+s
 
 ## 6.1.Criar Entidade
 
@@ -80,7 +81,7 @@ Após o registo dos dados deve clicar em **GUARDAR** para gravar a entidade. Ap�
 
 <p id="alteraEntidade"></p>
 
-## 6.2.Editar Entidade
+## 6.2.Ediar Entidade
 
 A página de edição de uma entidade está disponível através da consulta de entidade clicando no botão “EDITAR ENTIDADE” ([](#figPaginaEntradaEnt)) ou se tiver acesso à pesquisa de entidades pode navegar diretamente para a edição após selecionar uma entidade da lista de resultados e clicar no botão **EDITAR** ([](#figPesquisaExEntidade) ).
 A edição deve respeitar o preenchimento dos campos obrigatórios identificados no ponto [6.1 Criar Entidade](#criar-entidade).
